@@ -1,4 +1,4 @@
-package main.java.one.digitalinnovation.cloudparking.controller;
+package one.digitalinnovation.cloudparking.controller;
 
 
 import org.springframework.web.bind.annotation.GetMapping;
